@@ -1,2 +1,2 @@
 # Toni Carrascosa Vallori
-Abertay Graduate Game Programmer - Portfolio Site.
+Game Programmer - Portfolio Site.
